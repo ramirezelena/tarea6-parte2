@@ -43,7 +43,7 @@ Ejemplo: `ESTADO 6624465` → `ESTADO tramite`
 
 ---
 
-### 🧱 Modificación (creación, actualización y eliminación)
+###  Modificación (creación, actualización y eliminación)
 1. **CREAR** `<cedula> <nombre>;<apellido>;<estado>`  
 Crea un nuevo registro.  
 Ejemplo: `CREAR 6624465 Elena;Ramirez;vigente` → `OK`
